@@ -1,4 +1,5 @@
 site_name: My Docs
+site-url: https://jwwoody.github.io/mkdoc-public/
 theme:
   name: material
   features:
